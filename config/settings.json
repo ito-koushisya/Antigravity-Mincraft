@@ -1,0 +1,7 @@
+{
+  "rcon_host": "localhost",
+  "rcon_port": 25575,
+  "rcon_password": "password",
+  "ai_model": "manual-bridge",
+  "pack_format": 48
+}

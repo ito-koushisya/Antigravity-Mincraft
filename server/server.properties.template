@@ -1,0 +1,14 @@
+enable-rcon=true
+rcon.port=25575
+rcon.password=password
+server-port=25565
+broadcast-rcon-to-ops=true
+enable-command-block=true
+level-name=world
+motd=MVB Safe Server
+online-mode=true
+pvp=false
+difficulty=peaceful
+max-players=1
+spawn-protection=0
+view-distance=10
